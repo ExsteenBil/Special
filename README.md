@@ -1,0 +1,1 @@
+Code utilized in the Master Thesis "Can Air Cleaning improve Air Quality on Aircraft?" the code is split into the two experiments assessed in the thesis. Each test might have a boxplot and friedman wilcoxon separately
